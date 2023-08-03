@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/digitalproject/static/css/main.af031998.css",
+    "main.js": "/digitalproject/static/js/main.e612200e.js",
+    "static/js/787.427abb26.chunk.js": "/digitalproject/static/js/787.427abb26.chunk.js",
+    "static/media/Rectangle6.png": "/digitalproject/static/media/Rectangle6.fe799e180310e200a82f.png",
+    "static/media/SF-Pro-Display-Black.otf": "/digitalproject/static/media/SF-Pro-Display-Black.9f6bb018ca3e8b89e9da.otf",
+    "static/media/image15.png": "/digitalproject/static/media/image15.1146404ce051ee4e83e6.png",
+    "static/media/image17.png": "/digitalproject/static/media/image17.aa69379a0cccc0bab84b.png",
+    "static/media/TTHoves-Light.ttf": "/digitalproject/static/media/TTHoves-Light.ff447b186f99becf2ff2.ttf",
+    "static/media/TTHoves-Bold.ttf": "/digitalproject/static/media/TTHoves-Bold.170a72c0ea1224530434.ttf",
+    "static/media/image12.png": "/digitalproject/static/media/image12.2ce51f0c23a7efcea520.png",
+    "static/media/TTHoves-Regular.ttf": "/digitalproject/static/media/TTHoves-Regular.22badb647628141aaacb.ttf",
+    "static/media/TTHoves-Medium.ttf": "/digitalproject/static/media/TTHoves-Medium.c84646119459f89cd0d4.ttf",
+    "static/media/image18.png": "/digitalproject/static/media/image18.3b1e57a153cb60ef6fc4.png",
+    "static/media/image16.png": "/digitalproject/static/media/image16.2d4cb36d857ddce34750.png",
+    "static/media/Rectangle9.png": "/digitalproject/static/media/Rectangle9.a7c9ae95e7d0a0e8592d.png",
+    "static/media/Rectangle12.png": "/digitalproject/static/media/Rectangle12.9a0ed2bc41ecd1542e8e.png",
+    "static/media/Rectangle8.png": "/digitalproject/static/media/Rectangle8.a73fb26ce0f5bd270dea.png",
+    "static/media/Rectangle10.png": "/digitalproject/static/media/Rectangle10.8fee460dfff322d2b547.png",
+    "static/media/Group11.svg": "/digitalproject/static/media/Group11.e33061f24319c9d4aca34b24580d5020.svg",
+    "static/media/Group.svg": "/digitalproject/static/media/Group.81c885fec68886a00e43aca20205af86.svg",
+    "static/media/Group 111.svg": "/digitalproject/static/media/Group 111.4039a2095c9e4e80244449ccec29314e.svg",
+    "static/media/maps-pin-line-icon.svg": "/digitalproject/static/media/maps-pin-line-icon.f036fd5a59cb0223ee1e473303c8c6d1.svg",
+    "static/media/Shape (3).svg": "/digitalproject/static/media/Shape (3).0cf6561fef0165da2c7da8e213d2b3d9.svg",
+    "static/media/Shape (1).svg": "/digitalproject/static/media/Shape (1).110d169193190d2f29e701bbcefe48a9.svg",
+    "static/media/Shape (2).svg": "/digitalproject/static/media/Shape (2).b3a9afd3431b603dc821442cbc67b7e5.svg",
+    "static/media/Group1.svg": "/digitalproject/static/media/Group1.f89736e3d11e4cf40e0cd95f709f033b.svg",
+    "static/media/arrow-2-right-long2.svg": "/digitalproject/static/media/arrow-2-right-long2.457ceb30bd2ba7c928135d4374ff9ecc.svg",
+    "index.html": "/digitalproject/index.html",
+    "static/media/arrow-2-right-long.svg": "/digitalproject/static/media/arrow-2-right-long.d2ee92fe5a3a3afd5b2b3cf94580caaf.svg",
+    "static/media/Shape.svg": "/digitalproject/static/media/Shape.12a314b124f47ead9d1424b11aaeb5f9.svg",
+    "static/media/Line 3.svg": "/digitalproject/static/media/Line 3.e93ad0f056fea71334e9df2abc993940.svg",
+    "main.af031998.css.map": "/digitalproject/static/css/main.af031998.css.map",
+    "main.e612200e.js.map": "/digitalproject/static/js/main.e612200e.js.map",
+    "787.427abb26.chunk.js.map": "/digitalproject/static/js/787.427abb26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af031998.css",
+    "static/js/main.e612200e.js"
+  ]
+}
