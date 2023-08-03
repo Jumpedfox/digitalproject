@@ -1,0 +1,78 @@
+.section-about {
+  box-sizing: border-box;
+  padding: 30px 70px 0 100px;
+  height: 465px;
+  display: flex;
+  justify-content: space-between;
+  font-family: "TTHoves300";
+
+  &_images {
+    width: 570px;
+    display: flex;
+    justify-content: space-between;
+
+    div {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    &-first {
+      width: 270px;
+      height: 265px;
+      background-image: url(../../images/Rectangle8.png);
+    }
+
+    &-second {
+      width: 270px;
+      height: 140px;
+      background-image: url(../../images/Rectangle10.png);
+    }
+
+    &-third {
+      width: 270px;
+      height: 345px;
+      background-image: url(../../images/Rectangle9.png);
+    }
+  }
+
+  &_text {
+    width: 400px;
+    text-align: start;
+    cursor: default;
+
+    span {
+      font-size: 64px;
+      line-height: 64px;
+      color: rgba(189, 189, 189, 1);
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 25px;
+      margin: 20px 0;
+    }
+
+    button {
+      font-family: "TTHoves400";
+      width: 222px;
+      height: 71px;
+      background-color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      & span {
+        font-size: 12px;
+        line-height: 12px;
+        margin-right: 12px;
+        letter-spacing: 0.2rem;
+        color: rgba(51, 51, 51, 1);
+      }
+
+      &:hover {
+        background-color: rgb(225, 240, 240);
+      }
+    }
+  }
+}

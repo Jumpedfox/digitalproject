@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "TTHoves300";
+  src: url(../src/assets/fonts/TTHoves-Light.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "TTHoves400";
+  src: url(../src/assets/fonts/TTHoves-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "TTHoves500";
+  src: url(../src/assets/fonts/TTHoves-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "TTHoves700";
+  src: url(../src/assets/fonts/TTHoves-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFProDisplay900";
+  src: url(../src/assets/fonts/SF-Pro-Display-Black.otf) format("opentype");
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "TTHoves400";  
+
+  &-content {
+    box-sizing: border-box;
+    width: 1440px;
+    padding: 0 135px;
+  }
+
+  button {
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    transition: 0.5s;
+    font-family: "TTHoves400";
+    text-transform: uppercase;
+  }
+
+  section {
+    margin-bottom: 120px;
+  }
+
+  img {
+    width: 24px;
+    height: 24px;
+  }
+}

@@ -1,0 +1,50 @@
+.section-objctives {
+  height: 268px;
+  text-align: start;
+  font-family: "TTHoves300";
+  font-size: 64px;
+  line-height: 64px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: rgba(189, 189, 189, 1);
+  cursor: default;
+
+  &_content {
+    height: 144px;
+    display: flex;
+    justify-content: space-between;
+
+    div {
+      display: flex;
+    }
+
+    div:first-child {
+      width: 413px;
+    }
+
+    div:last-child {
+      width: 570px;
+
+      span {
+        width: 120px;
+      }
+    }
+
+    span {
+      font-family: "SFProDisplay900";
+      font-size: 200px;
+      line-height: 146px;
+      color: rgba(242, 242, 242, 1);
+      margin-right: 30px;
+    }
+
+    p {
+      margin: 0;
+      font-family: "TTHoves400";
+      font-size: 22px;
+      line-height: 36px;
+      color: rgba(51, 51, 51, 1);
+    }
+  }
+}

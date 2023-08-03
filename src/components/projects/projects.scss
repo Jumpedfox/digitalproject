@@ -1,0 +1,113 @@
+.section-projects {
+  height: 765px;
+  text-align: start;
+  font-family: "TTHoves300";
+  font-size: 64px;
+  line-height: 64px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: rgba(189, 189, 189, 1);
+  cursor: default;
+
+  &-button {
+    width: 222px;
+    height: 71px;
+    font-size: 12px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: flex-end;
+
+    & span {
+      margin-right: 12px;
+      color: rgba(51, 51, 51, 1);
+      letter-spacing: 0.2rem;
+    }
+  }
+
+  &-title {
+    margin-bottom: 30px;
+  }
+
+  &-firstblock {
+    display: flex;
+    justify-content: space-between;
+
+    &-firstproject {
+      box-sizing: border-box;
+      width: 570px;
+      height: 255px;
+      font-family: "TTHoves700";
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 1);
+      background-image: url(../../images/Rectangle12.png);
+      cursor: pointer;
+
+      &-wrapper {
+        padding: 48px 78px;
+        opacity: 0;
+        transition: 0.3s;
+        background-color: rgba(51, 51, 51, 0.6);
+      }
+
+      &:hover {
+        & .wrapper {
+          opacity: 1;
+        }
+      }
+
+      & button {
+        height: 24px;
+        width: auto;
+        background-color: transparent;
+        margin-top: 8px;
+
+        span {
+          color: rgba(255, 255, 255, 1);
+        }
+      }
+    }
+
+    .qwe {
+      width: 570px;
+      height: 255px;
+      background-image: url(../../images/image15.png);
+    }
+  }
+
+  &-secondblock {
+    display: flex;
+    justify-content: space-between;
+
+    & :nth-child(1) {
+      width: 270px;
+      height: 255px;
+      background-image: url(../../images/image16.png);
+    }
+    & :nth-child(2) {
+      width: 470px;
+      height: 255px;
+      background-image: url(../../images/image17.png);
+    }
+    & :nth-child(3) {
+      width: 370px;
+      height: 255px;
+      background-image: url(../../images/image18.png);
+    }
+  }
+
+  .button-black {
+    background-color: rgba(51, 51, 51, 1);
+    transition: 0.7s;
+
+    span {
+      color: white;
+    }
+
+    &:hover {
+      background-color: rgb(26, 26, 26);
+    }
+  }
+}
