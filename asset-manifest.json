@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/digitalproject/static/css/main.7c26fe88.css",
+    "main.css": "/digitalproject/static/css/main.673b756f.css",
     "main.js": "/digitalproject/static/js/main.81564f18.js",
     "static/js/787.427abb26.chunk.js": "/digitalproject/static/js/787.427abb26.chunk.js",
     "static/media/Rectangle6.png": "/digitalproject/static/media/Rectangle6.fe799e180310e200a82f.png",
@@ -31,12 +31,12 @@
     "static/media/arrow-2-right-long.svg": "/digitalproject/static/media/arrow-2-right-long.d2ee92fe5a3a3afd5b2b3cf94580caaf.svg",
     "static/media/Shape.svg": "/digitalproject/static/media/Shape.12a314b124f47ead9d1424b11aaeb5f9.svg",
     "static/media/Line 3.svg": "/digitalproject/static/media/Line 3.e93ad0f056fea71334e9df2abc993940.svg",
-    "main.7c26fe88.css.map": "/digitalproject/static/css/main.7c26fe88.css.map",
+    "main.673b756f.css.map": "/digitalproject/static/css/main.673b756f.css.map",
     "main.81564f18.js.map": "/digitalproject/static/js/main.81564f18.js.map",
     "787.427abb26.chunk.js.map": "/digitalproject/static/js/787.427abb26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c26fe88.css",
+    "static/css/main.673b756f.css",
     "static/js/main.81564f18.js"
   ]
 }
